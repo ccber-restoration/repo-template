@@ -1,2 +1,11 @@
-# repo-template
-Use this repository template when creating repositories for new projects
+# Overview
+
+## Repository structure
+
+## Data
+
+## Code
+
+## Resources (links to external data sources, other relevant repositories, etc.)
+
+## References
