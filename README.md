@@ -1,6 +1,6 @@
 # Overview
 
-*(Provide an overview of the project here* You can think of this as an abstract or an executive summary, including any high-level information you think is important for yourself or others to know about the repository)*
+*(Provide an overview of the project here. You can think of this as an abstract or an executive summary, including any high-level information you think is important for yourself or others to know about the repository)*
 
 ## Repository structure
 *(Describe how the repository is organized. Depending on the project, the structure might be simple or more complex)*
