@@ -2,7 +2,7 @@
 
 *(Provide an overview of the project here. You can think of this as an abstract or an executive summary, including any high-level information you think is important for yourself or others to know about the repository)*
 
-*Important information: who are the authors/collaborators? Who is the best contact for the project? If the project is associated with a doi, include the doi. 
+*Important information: who are the authors/collaborators? Who is the best contact for the project? If the project is associated with a doi, include the doi.* 
 
 ## Repository structure
 *(Describe how the repository is organized. Depending on the project, the structure might be simple or more complex)*
